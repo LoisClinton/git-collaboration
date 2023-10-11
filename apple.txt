@@ -7,9 +7,6 @@ Golden Delicious
 Pink Lady 
 Apple Mac 
 iPhone
-<<<<<<< HEAD
 Git Apple   
 Purple apple
-=======
 Apple Watch
->>>>>>> 7de03da (added apple watch)
