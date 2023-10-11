@@ -3,7 +3,11 @@ Red apple
 Yellow apple
 Apple apple
 Half of an apple
+<<<<<<< HEAD
 Golden Delicious 
 Pink Lady 
 Apple Mac 
 iPhone
+=======
+Git Apple   
+>>>>>>> 8f2ba08 (Mil adding apples again.)
